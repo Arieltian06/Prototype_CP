@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 690" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Pesisir, sebuah ruang kelas</title>
+  <desc id="desc">Ilustrasi bergaya cetak seni tentang pantai, cahaya matahari, pepohonan, dan ombak.</desc>
+  <defs>
+    <linearGradient id="sky" x1="320" y1="0" x2="320" y2="385" gradientUnits="userSpaceOnUse"><stop stop-color="#ebddbd"/><stop offset="1" stop-color="#f5ead0"/></linearGradient>
+    <linearGradient id="ocean" x1="195" y1="315" x2="498" y2="690" gradientUnits="userSpaceOnUse"><stop stop-color="#428e89"/><stop offset="1" stop-color="#145552"/></linearGradient>
+    <pattern id="grain" width="6" height="6" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".6" fill="#143e38" opacity=".08"/><circle cx="4" cy="5" r=".5" fill="#fffae4" opacity=".18"/></pattern>
+    <clipPath id="frame"><path d="M0 0h640v690H0z"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <path fill="url(#sky)" d="M0 0h640v690H0z"/>
+    <circle cx="446" cy="164" r="90" fill="#ce794e"/>
+    <circle cx="446" cy="164" r="105" stroke="#c08052" stroke-opacity=".3"/>
+    <circle cx="446" cy="164" r="117" stroke="#c08052" stroke-opacity=".18"/>
+    <path d="M-50 158c130-16 176-43 283-25M-30 178c108-11 135-30 220-26M377 89c73-15 183-3 284-31M379 100c74-13 185-1 292-34" stroke="#fff9e8" stroke-width="2" opacity=".6"/>
+    <path d="M0 318c66-34 154-2 221-14 98-18 242-36 419-13v399H0Z" fill="url(#ocean)"/>
+    <path d="M0 315c113-51 198 20 259 47 70 31 97 48 102 91 6 53 23 83 103 117 90 37 127 77 121 120H0Z" fill="#e7d9ae"/>
+    <path d="M0 341c102-46 186 10 240 37 74 38 104 49 109 97 7 67 46 87 113 117 66 30 93 60 103 98H0Z" fill="#f2e8c8"/>
+    <path d="M0 311c126-41 213 31 264 54 77 35 101 55 103 99 1 44 22 74 93 105 98 42 131 77 131 121" stroke="#faf5df" stroke-width="8"/>
+    <path d="M0 299c106-30 204 17 282 58 82 44 106 57 109 107 3 49 31 72 88 96 91 40 139 80 140 130" stroke="#91b8a1" stroke-width="2"/>
+    <path d="M19 275c120-9 205 31 277 71 74 41 110 57 116 106 5 47 21 61 77 91 104 56 147 75 151 147" stroke="#a9c7ad" stroke-width="1.5" opacity=".6"/>
+    <path d="M379 344c46-9 130-7 230-19M405 355c81-5 110-4 171-11M455 420c39-7 109-3 189-24M473 438c66-7 99-10 160-22M501 505c52 2 89-4 142-20M551 521c30-1 65-8 95-15M385 309h77M498 314l72-5" stroke="#b4cbbb" stroke-width="2" stroke-linecap="round" opacity=".65"/>
+    <path d="M0 456c64-16 146-3 200 23 58 28 47 84 114 112 67 29 92 35 106 99H0Z" fill="#d6d2a3"/>
+    <path d="M-23 473c91-14 182 4 214 48 38 52 58 81 114 93 56 13 79 35 87 77M-28 493c89-19 174 10 207 54 32 43 54 71 113 84 54 12 69 34 73 60M-30 518c77-15 147 6 172 47 28 47 61 72 122 84 40 9 58 22 62 47" stroke="#a9af88" stroke-width="1.5"/>
+    <path d="M-17 599c91-3 108-110 125-221 10-65 24-110 35-134" stroke="#4d6650" stroke-width="13"/>
+    <path d="M135 257c-56-92-143-86-162-43 60-13 104 8 162 43ZM138 250c-49-95-5-145 57-134-40 32-48 73-57 134ZM145 249c46-92 127-83 151-38-65-5-111 5-151 38ZM145 251c69-47 142-2 144 59-52-48-98-48-144-59ZM139 256c-42-24-108 2-111 63 32-34 61-55 111-63ZM142 257c23-28 70 24 55 80-14-46-24-61-55-80Z" fill="#335f4a"/>
+    <path d="M-10 610c49 2 73 15 115 41l59 39H0Z" fill="#335f4a"/>
+    <path d="M37 633c-26-46-15-71 8-73 4 27 10 50-8 73ZM64 653c-3-65 25-93 49-82-7 34-26 62-49 82ZM79 668c29-42 67-46 77-20-23 16-45 17-77 20Z" fill="#567655"/>
+    <g stroke="#45675b" stroke-width="1.5" opacity=".7"><path d="M426 256q10-8 20 0 10-8 20 0M491 238q7-6 14 0 7-6 14 0M310 218q10-8 20 0 10-8 20 0"/></g>
+    <path d="m441 477 36 4-9 9-19-3Z" fill="#d49b5a"/><path d="m455 477 3-24 12 25" fill="#f3e7c5"/>
+    <path fill="url(#grain)" d="M0 0h640v690H0z"/>
+    <path d="M25 40V25h15M600 25h15v15M25 650v15h15M600 665h15v-15" stroke="#f7f2da" stroke-width="1.5" opacity=".85"/>
+  </g>
+</svg>
